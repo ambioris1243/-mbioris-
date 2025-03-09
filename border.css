@@ -1,0 +1,38 @@
+.cris{
+    text-align: center;
+    border-top-left-radius: 100px;
+color: blue;
+background-color: aqua;
+border: solid 3px;
+border-color: black;
+}
+.angel{
+text-align: center;
+border-top-right-radius: 100px;
+color: darkmagenta;
+background-color: cornflowerblue;
+border: solid 3px;
+border-color: crimson;
+}
+.Denzel{
+    text-align: center;
+    border-bottom-left-radius: 100px;
+    color: darkgreen;
+    background-color: coral;
+    border: solid 3px;
+    border-color: darkseagreen;
+
+}
+.fran{
+text-align: center;
+border-bottom-right-radius: 100px ;
+color: darkslategray;
+background-color: grey;
+border: solid 3px;
+border-color: rgb(13, 32, 32);
+}
+body{
+background-color: rgb(150, 10, 231);
+color: blue;
+
+}
